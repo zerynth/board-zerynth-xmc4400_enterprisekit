@@ -1,1 +1,0 @@
-# board-zerynth-xmc4400_enterprisekit

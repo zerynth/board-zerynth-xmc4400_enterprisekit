@@ -1,0 +1,13 @@
+---
+description: Add support for XMC4400 Enterprise Kit
+fullname: board.zerynth.xmc4400_enterprisekit
+info:
+    board: XMC4400 Enterprise Kit
+    chip_manufacturer: Infineon
+    device: xmc4400
+    family_type: ARM Cortex M4
+keywords:
+- board
+- infineon
+title: Infineon XMC4400 Enterprise Kit Board Support Package
+...
